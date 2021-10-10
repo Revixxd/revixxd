@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Revixxd](https://github.com/Revixxd)
+- 👨‍💻 All of my projects are available at [https://github.com/Revixxd](https://github.com/Revixxd?tab=repositories)
 
 - 📫 How to reach me **amyslicki2002@gmail.com**
 

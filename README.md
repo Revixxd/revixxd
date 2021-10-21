@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A frontend developer beginner from Poland</h3>
 
-- 🔭 I’m currently working on [JavaScript IOS Calculator](https://github.com/Revixxd/JavaScriptCalculator)
+- 🔭 I’m currently working on [To do list](https://github.com/Revixxd/To-do-list)
 
 - 📚 I'm currently studying at [Wroclaw University of Technologies](https://pwr.edu.pl) in [Electric, Photonic, and Microchips department](https://wefim.pwr.edu.pl)
 

@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Revixxd](https://github.com/Revixxd?tab=repositories)
 
-- 📫 How to reach me **amyslicki2002@gmail.com**
+- 📫 How to reach me amyslicki2002@gmail.com
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adam-myślicki/](https://www.linkedin.com/in/adam-myślicki/)
 

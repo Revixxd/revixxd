@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Slider](https://github.com/Revixxd/Slider)
 
-- 📚 I'm currently studying at [Wroclaw University of Technologies](https://pwr.edu.pl) in [Electric, Photonic and Microchips department](https://wefim.pwr.edu.pl)
+- 📚 I'm currently studying at [Wroclaw University of Technologies](https://pwr.edu.pl) at [Electric, Photonic and Microchips department](https://wefim.pwr.edu.pl)
 
 - 🌱 I’m currently learning **React**
 

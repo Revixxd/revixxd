@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A Frontend developer beginner from Poland</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/Revixxd/Portfolio)
+- 🔭 I’m currently working on [Weather-app](https://github.com/Revixxd/weather-app)
 
 - 📚 I'm currently studying on [Wroclaw University of Technologies](https://pwr.edu.pl) at [Electric, Photonic and Microchips department](https://wefim.pwr.edu.pl)
 

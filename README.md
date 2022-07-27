@@ -5,7 +5,7 @@
 
 - 📚 I'm currently studying on [Wroclaw University of Technologies](https://pwr.edu.pl) at [Electric, Photonic and Microchips department](https://wefim.pwr.edu.pl)
 
-- 🌱 I’m currently learning **React** **/** **C++**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Revixxd](https://github.com/Revixxd?tab=repositories)
 

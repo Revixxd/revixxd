@@ -23,7 +23,7 @@
 
 <h2 align="left">Languages:</h2>
 <p>
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,c,cpp" />
   </a>
 </p>
@@ -31,14 +31,14 @@
 
 <h2 style="font-size:40px" align="left">Web Dev Tools:</h2>
 <p>
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=styledcomponents" />
   </a>
 </p>
  
 <h2 align="left">Tools:</h2>
 <p>
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
   </a>
 </p>

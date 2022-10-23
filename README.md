@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **Big F1 fan 🏎**
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=revixxd&repo=Portfolio&theme=transparent)](https://github.com/Revixxd/Portfolio)
+
 <h2 align="left">Connect with me:</h2>
 <p>
   <a href="https://www.linkedin.com/in/adam-myślicki/">
@@ -45,4 +47,4 @@
 </p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Revixxd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Revixxd&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)

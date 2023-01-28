@@ -41,7 +41,7 @@
 <h2 style="font-size:40px" align="left">Web Dev Tools:</h2>
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=vite,styledcomponents" />
   </a>
 </p>
  

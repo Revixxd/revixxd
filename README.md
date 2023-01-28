@@ -48,7 +48,7 @@
 <h2 align="left">Tools:</h2>
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,figma,vscode" />
   </a>
 </p>
 <br>

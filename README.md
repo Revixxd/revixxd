@@ -25,21 +25,21 @@
 <h2 align="left">Languages:</h2>
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c,cpp" />
   </a>
 </p>
 
 <h2 align="left">JS Frameworks:</h2>
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=react,vue" />
+    <img src="https://skillicons.dev/icons?i=react,vue,nuxt" />
   </a>
 </p>
 
 <h2 style="font-size:40px" align="left">Web Dev Tools:</h2>
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=vite,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=vite,npm,pnpm,styledcomponents,pinia" />
   </a>
 </p>
  
@@ -47,6 +47,13 @@
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=git,gitlab,github,figma,vscode" />
+  </a>
+</p>
+
+<h2 align="left">Other:</h2>
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=wordpress,rasberry" />
   </a>
 </p>
 <br>

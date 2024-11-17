@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A Frontend developer from Poland</h3>
 
-- 👨‍💻 I'm currently working on at [Rawlplug](https://www.linkedin.com/company/rawlplug), as Junior Front-end developer.
+- 👨‍💻 I'm currently working on [Rawlplug](https://www.linkedin.com/company/rawlplug), as Junior Front-end developer.
 
 - 📚 I'm currently studying on [Wroclaw University of Applied Informatics "Horizon"](https://horyzont.eu)
 

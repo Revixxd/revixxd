@@ -11,10 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adam-myślicki/](https://www.linkedin.com/in/adam-myślicki/)
 
-- ⚡ Fun fact **Big F1 fan 🏎**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=revixxd&repo=Portfolio&theme=transparent)](https://github.com/Revixxd/Portfolio)
-
 <h2 align="left">Connect with me:</h2>
 <p>
   <a href="https://www.linkedin.com/in/adam-myślicki/">

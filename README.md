@@ -3,7 +3,7 @@
 
 - 👨‍💻 I'm currently working on [Rawlplug](https://www.linkedin.com/company/rawlplug), as Front-end developer.
 
-- 📚 I'm currently studying on [Wroclaw University of Applied Informatics "Horizon"](https://horyzont.eu)
+- 📚 I'm currently studying on [Technical Academy of Informatics in Applied Sciences](https://atins.pl)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Revixxd](https://github.com/Revixxd?tab=repositories)
 
